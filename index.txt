@@ -5,4 +5,6 @@ Git and GitHub Advanced Part
 3.git reset --hard HEAD (To unstage and discard in working directory)
 4.git commit --amend (To correcting the commit message & adding file)
 5.git revert HEAD (To deleting recent commit with histry)
-6.git reset --hard commit id (To delet recent commit without histry)
+6.git reset --hard <commit id> (To delete recent commit without histry)
+7.git revert <commit id> (To delete recent pushed commit)
+8.git reset --hard <commit id> (To delete pushed commit with histry)
