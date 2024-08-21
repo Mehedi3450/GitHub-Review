@@ -3,4 +3,6 @@ Git and GitHub Advanced Part
 1.git checkout -- <fileName> / . (To discard changes in the working directory)
 2.git reset HEAD . (To unstage all file)
 3.git reset --hard HEAD (To unstage and discard in working directory)
-4.git commit --amend (To correcting the commit message)
+4.git commit --amend (To correcting the commit message & adding file)
+5.git revert HEAD (To deleting recent commit with histry)
+6.git reset --hard commit id (To delet recent commit without histry)
