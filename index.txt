@@ -1,0 +1,5 @@
+Git and GitHub Advanced Part
+
+1.git checkout -- <fileName> / . (To discard changes in the working directory)
+2.git reset HEAD . (To unstage all file)
+3.git reset --hard HEAD (To unstage and discard in working directory)
